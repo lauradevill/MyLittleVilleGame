@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button {
+    font-size:12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    color:white;
+    background:#38b6ff;
+    border:0px;
+    width:80px;
+    height:19px;
+}
+
+p {
+    background-color: #38b6ff;
+}
